@@ -12,7 +12,7 @@ This is a simple React application for displaying a menu with filterable categor
   - [Contact Information](#contact-information)
 
 ## Demo
-You can see a live demo of this project [here](#).
+You can see a live demo of this project [here](https://menu-ruby.vercel.app/).
 
 ## Features
 - Display a list of menu items.
