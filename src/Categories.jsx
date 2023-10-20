@@ -1,5 +1,3 @@
-import React from "react";
-
 const Categories = ({ categories, filterItems }) => {
   return (
     <div className="btn-container">
@@ -8,7 +6,7 @@ const Categories = ({ categories, filterItems }) => {
           <button
             key={index}
             type="button"
-            className="filter-btn"
+            className="btn"
             onClick={() => filterItems(category)}
           >
             {category}
