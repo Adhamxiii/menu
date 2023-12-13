@@ -9,10 +9,11 @@ This is a simple React application for displaying a menu with filterable categor
   - [Features](#features)
   - [Usage](#usage)
   - [Project Structure](#project-structure)
-  - [Contact Information](#contact-information)
+  - [Contributing](#contributing)
+  - [Contact Me](#contact-me)
 
 ## Demo
-You can see a live demo of this project [here](https://menu-ruby.vercel.app/).
+You can see a live demo of this project [here](https://menu-blue-phi.vercel.app/).
 
 ## Features
 - Display a list of menu items.
@@ -31,11 +32,15 @@ The project is structured as follows:
   - `Menu.js` is responsible for displaying the menu items.
   - `Categories.js` is used to render category filter buttons.
 - `data.js` contains the menu item data used by the application.
+## Contributing
 
-## Contact Information
+Feel free to contribute to this project. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-If you have any questions or need assistance, you can reach out to the project author:
+## Contact Me
 
-- Email: [Adham Nasser](mailto:adhamxiii@gmail.com)
-- LinkedIn: [Adham Nasser](https://www.linkedin.com/in/adham-nasser-xiii/)
-- GitHub: [Adham Nasser](https://github.com/Adham-XIII)
+If you have any questions or suggestions, feel free to contact me:
+
+- GitHub: [Adham Nasser](https://github.com/Adhamxiii)
+- Linkedin: [Adham Nasser](https://www.linkedin.com/in/adhamnasser/)
+
+Happy coding! 🚀
